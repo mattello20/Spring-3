@@ -30,6 +30,15 @@ nav a {
     margin: 0 10px;
 }
 
+section h2 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.main-p {
+    text-align: center;
+}
+
 table,th,tr,td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -45,10 +54,6 @@ th {
     display: flex;
     justify-content: center;
     margin: 2rem;
-}
-
-.article1 {
-    padding: 1rem 2rem;
 }
 
 .article2 {

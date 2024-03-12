@@ -1,6 +1,5 @@
 * {
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
 }
@@ -34,4 +33,37 @@ nav a {
     color: #ffffff;
     text-decoration: none;
     margin: 0 10px;
+}
+
+section h2{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.main-p {
+    text-align: center;
+    
+}
+
+h3 {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+strong {
+    text-transform: uppercase;
+}
+
+article {
+    margin: 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer img{
+    width: 14vw;
+    padding: 10px;
 }
