@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -20,11 +20,12 @@ header {
 }
 
 h1{
-    padding: 20px;
+    margin: 1rem;
 }
 
 .imageDesign {
-    width: 97vw;
+    margin-top: 30px;
+    width: 98vw;
     height: 20vw;
     margin: auto;
     border-radius: 10px;
@@ -84,6 +85,6 @@ footer {
 }
 
 footer img{
-    width: 10vw;
+    width: 14vw;
     padding: 10px;
 }
